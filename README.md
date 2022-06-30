@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonkeySoup318
 - 👀 I’m interested in Python and C# programming. 
-- 🌱 I’m currently learning Python programming
+- 🌱 I’m currently learning Python and C# programming
 - 💞️ I’m looking to collaborate on fun and beginner friendly programming projects
 
 <!---
